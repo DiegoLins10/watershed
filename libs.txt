@@ -1,0 +1,5 @@
+ pip install matplotlib --user
+
+ pip install numpy  
+
+ pip install opencv-contrib-python
